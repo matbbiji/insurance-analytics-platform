@@ -1,4 +1,4 @@
-An end-to-end Lakehouse platform that automates car insurance claim triage, cutting approval latency from days to sub-second decisions.  
+An end-to-end Lakehouse platform that automates the car insurance claim process, cutting approval times from days to sub-second decisions.  
 
 ## The Problem:
 Traditional claim processing relies on manual, human visual inspection to verify damage severity and policy limits—creating massive operational bottlenecks.  
