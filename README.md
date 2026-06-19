@@ -1,7 +1,7 @@
 An end-to-end Lakehouse platform that automates the car insurance claim process, cutting approval times from days to sub-second decisions.  
 
 ## The Problem:
-Traditional claim processing relies on manual, human visual inspection to verify damage severity and policy limits—creating massive operational bottlenecks.  
+Traditional claim processing relies on manual, human visual inspection to verify damage severity and policy limits, creating massive operational bottlenecks.  
 
 ## The Solution:
 A full-stack architecture that unifies streaming enterprise data, machine learning, and an interactive web portal to automatically approve or flag claims the second they are submitted.  
